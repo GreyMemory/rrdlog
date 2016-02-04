@@ -1,0 +1,1 @@
+rsync -a --progress root@104.131.64.201:/home/equalit/rrd ./

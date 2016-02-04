@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Copyright(c) Anton Mazhurin & Nawwaf Kharma
+${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>

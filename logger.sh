@@ -1,0 +1,1 @@
+java -cp ./build/classes rrdlog.Logger /home/equalit/rrd /var/lib/vici/log
