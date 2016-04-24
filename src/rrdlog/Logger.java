@@ -23,7 +23,7 @@ public class Logger {
      */
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("rrdlog (c) Mindmick Corp.");
+        System.out.println("rrdlog (c) Anton Mazhurin");
         
         if(args.length < 1){
             System.out.println("The first argument should be the path to RRD folder");
